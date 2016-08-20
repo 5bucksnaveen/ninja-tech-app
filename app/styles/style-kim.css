@@ -1,0 +1,178 @@
+body
+{
+background:url(../images/bg.jpg) no-repeat center top #000000;
+padding:0; font-family:arial, sans-serif; font-size:12px;
+margin:0px auto auto auto;
+color:#948b8b;
+}
+p{
+padding:0px;
+text-align:justify;
+margin:0px;
+line-height:17px;
+}
+.clear{
+clear:both;
+}
+a{
+text-decoration:underline;
+}
+a.read_more{
+display:block;
+width:72px;
+height:24px;
+line-height:24px;
+text-align:center;
+color:#000000;
+float:right;
+margin:10px 0 0 0;
+text-decoration:none;
+font-size:12px;
+background:url(../images/read_more.gif) no-repeat center;
+}
+a:hover.read_more{
+text-decoration:underline;
+}
+img.left_img{
+float:left;
+padding:3px 25px 3px 3px;
+}
+
+#main_container{
+width:900px;
+height:auto;
+margin:auto;
+padding:0px;
+background:url(../images/right_bg.jpg) no-repeat top right;
+}
+#header{
+width:900px;
+height:175px;
+margin:0px;
+padding:0px;
+}
+.logo{
+padding:32px 0 0 32px;
+}
+.title{
+width: auto;
+padding:2px 0 10px 0;
+font-size:17px;
+color:#face55;
+font-weight:bold;
+font-style:italic;
+}
+
+/*---------------- menu tab----------------------*/
+.menu{
+width:485px;
+height:27px;
+margin:40px 0 0 32px;
+background:url(../images/menu_bg.png) no-repeat left;
+}
+.menu ul{
+list-style:none;
+padding:0px;
+margin:0px;
+}
+.menu ul li{
+display:inline;
+}
+.menu ul li a{
+float:left;
+border:none;
+padding:0 15px 0 15px;
+text-decoration:none;
+color:#ffda94;
+line-height:27px;
+font-size:14px;
+font-style:italic;
+font-weight:bold;
+}
+.menu ul li a:hover{
+color:#ffffff;
+}
+
+/*-------------welcome_box------------*/
+.welcome_box{
+width:470px;
+padding:30px 0 0 32px;
+}
+/*---------------center_content-------*/
+#center_content{
+width:900px;
+height:auto;
+clear:both;
+padding:25px 0 30px 0;
+}
+.center_left{
+width:460px;
+float:left;
+padding:20px 0 20px 32px;
+}
+.center_right{
+width:300px;
+float:left;
+padding:20px 10px 10px 60px;
+}
+.center_wide{
+width:auto;
+height:auto;
+clear:both;
+padding:15px 0 0 32px;
+}
+.clothes_box{
+width:242px;
+height:205px;
+float:left;
+color:#000000;
+font-size:14px;
+font-style:italic;
+text-align:center;
+line-height:30px;
+margin:20px 12px 20px 12px;
+padding:30px 0 0 0;
+background:url(../images/clothes_bg.gif) no-repeat center;
+}
+.clothes_box span{
+font-weight:bold;
+}
+/*----------------------list-------------------------*/
+ul.list{
+list-style:none;padding:0px;margin:0px; 
+}
+ul.list li{
+list-style:none;width: auto;height: auto;padding:0px; margin:8px 0 8px 0;
+}
+ul.list li a{
+height:24px; width: auto; padding:0 0 0 35px; margin:0;color:#948b8b;text-align:left;line-height:24px;
+text-decoration:none;
+}
+ul.list li span{
+height:24px; width:24px; display:block;padding:0px; margin:0px;color:#000;text-align:center; float:left; float:left; line-height:24px;
+background:url(../images/bullet.gif) no-repeat left;
+}
+ul.list li a:hover{
+text-decoration:underline;
+}
+/*-------------------footer------------------------*/
+#footer{
+width:900px;
+height:70px;
+clear:both;
+color:#ffda94;
+border-top:1px #322911 dashed;
+}
+.left_footer{
+float:left;
+padding:20px 0 0 0;
+}
+#footer a{
+color:#ffda94;
+padding:0 8px 0 8px;
+text-decoration:none;
+}
+.right_footer{
+float:right;
+padding:15px 10px 0 0 ;
+}
