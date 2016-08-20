@@ -1,0 +1,4 @@
+{
+    "APIBaseUrl": "http://api-dev.tiesrx.com",
+    "baseTemplatePrefix": "http://tiesrx-dev-pharma.s3.amazonaws.com/ncm/"
+}

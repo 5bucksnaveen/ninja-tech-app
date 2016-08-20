@@ -1,0 +1,14 @@
+app/styles/styles.css
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
+/.idea
+gruntconfig.json
+/npm-global
+awsKeys.json
+npm-debug.log
+.DS_Store
+constants/local_constants.json
+app/scripts/constants.js

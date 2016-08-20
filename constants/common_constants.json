@@ -1,0 +1,15 @@
+{
+    "templateUrls": {
+        "dashboard": "views/dashboard.html"
+    },
+    "restAPIURL": {
+    },
+
+    "ui_statics": {
+        "templateUrls": {
+        }
+    },
+    "images": {
+    	"defaultLogo": "images/logo.png"
+    }
+}
